@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "definft-tea": "^1.0.0"
+  },
+  "name": "web3-teacoin",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webweb3/web3-teacoin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webweb3/web3-teacoin/issues"
+  },
+  "homepage": "https://github.com/webweb3/web3-teacoin#readme"
+}
